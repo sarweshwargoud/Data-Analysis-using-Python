@@ -1,9 +1,8 @@
-✅ README File for Task 5 (Copy–Paste into README.md)
-📊 Data Analysis on CSV Files — Task 5
+## 📊 Data Analysis on CSV Files — Task 5
 
 This project performs basic sales data analysis using Pandas and Matplotlib.
 
-✅ Features
+## ✅ Features
 
 Load CSV data using Pandas
 
@@ -15,7 +14,7 @@ Calculate total revenue
 
 Create bar charts for insights
 
-📁 Dataset
+## 📁 Dataset
 
 A Kaggle-style dataset named sales.csv is included.
 
@@ -29,7 +28,7 @@ Quantity	Number of units
 Price	Price per unit
 Total	Total amount (Quantity×Price)
 Date	Date of purchase
-▶️ How to Run
+## ▶️ How to Run
 
 Upload sales.csv to Colab / Jupyter Notebook
 
@@ -37,7 +36,7 @@ Add the analysis code cell
 
 Run all cells to generate insights and charts
 
-📈 Skills Used
+## 📈 Skills Used
 
 Pandas
 
@@ -49,9 +48,6 @@ Data filtering
 
 Matplotlib visualizations
 
-📝 Interview Concepts Covered
-
-Pandas is used for data analysis and manipulation
 
 DataFrame = table-like data structure
 
