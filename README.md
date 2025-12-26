@@ -1,4 +1,4 @@
-## 📊 Data Analysis on CSV Files — Task 5
+## 📊 Data Analysis on CSV Files 
 
 This project performs basic sales data analysis using Pandas and Matplotlib.
 
